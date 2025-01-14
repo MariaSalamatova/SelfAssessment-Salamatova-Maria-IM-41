@@ -1,24 +1,24 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
   - Algorithm
   - Syntax
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
+  - Library: 👂 heard
+  - Package: 👂 heard
   - Component
   - Framework
-  - Platform
+  - Platform: 🎓 known
   - Source code
   - Object code
   - Machine code
@@ -44,7 +44,7 @@
   - Procedure
   - Method
   - Class
-  - Prototype
+  - Prototype: 👂 heard
   - Event
   - Type
   - Flag
@@ -81,8 +81,8 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
+  - Signature: 🎓 known
+  - Argument: 🎓 known
   - Parameter
   - Pure function
   - Lambda expression
@@ -202,7 +202,7 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode: 🎓 known
   - V8
   - VJM
   - CLR
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
