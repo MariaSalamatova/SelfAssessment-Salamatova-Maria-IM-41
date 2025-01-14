@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming h
+  - Imperative programming u
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming h
+  - Prototype-based programming k
+  - Object-oriented programming h
+  - Object-based programming h
+  - Generic programming h
+  - Concurrent computing h
+  - Asynchronous programming u
+  - Parallel programming h
+  - Reactive programming h
+  - Functional-reactive (FRP) h
+  - Automata-based programming h
+  - Domain-specific languages h
+  - Multi-paradigm programming h
+  - Metaprogramming h
+  - Actor model h
+  - Lambda calculus h
+  - Black box h
+  - Information hiding h
+  - Aspect-oriented programming h
+  - Anemic domain model h
+  - Class composition h
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor u
+  - Operator `new` u
+  - Static method k
+  - Method k
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields k
+  - Field declarations k
+  - Inheritance k
+  - Parent class k
+  - Polymorphism k
+  - Abstract class k
+  - Interface k
+  - Encapsulation k
+  - Hidden class k
+  - Object form k
+  - Instance u
+  - Introspection k
+  - Reflection k
+  - The diamond problem k
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert k
+  - Creator k
+  - Controller k
+  - Indirection k
+  - Low coupling k
+  - High cohesion k
+  - Protected variations h
+  - Pure fabrication k
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) h
+  - Open–closed principle (OCP) h
+  - Liskov substitution principle (LSP) h
+  - Interface segregation principle (ISP) h
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton h
+  - Factory Method h
+  - Abstract Factory h
+  - Adapter k
+  - Observer h
+  - Strategy h
+  - Facade h
+  - Proxy k
+  - Chain of Responsibility k 
+  - Command k
+  - Iterator h
+  - State k
+  - Bridge h
+  - Builder h
+  - Prototype h
+  - Composite h
+  - Decorator h
+  - Flyweight h 
+  - Mediator h
+  - Memento h
+  - Template Method h
+  - Visitor k
+  - Reactor k
+  - Active object k
+  - Delegation h
