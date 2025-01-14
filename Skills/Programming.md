@@ -1,24 +1,24 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
   - Algorithm
   - Syntax
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
+  - Library h
+  - Package h
   - Component
   - Framework
-  - Platform
+  - Platform k
   - Source code
   - Object code
   - Machine code
@@ -44,7 +44,7 @@
   - Procedure
   - Method
   - Class
-  - Prototype
+  - Prototype h
   - Event
   - Type
   - Flag
@@ -81,8 +81,8 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
+  - Signature k
+  - Argument k
   - Parameter
   - Pure function
   - Lambda expression
@@ -202,7 +202,7 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode k
   - V8
   - VJM
   - CLR
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
