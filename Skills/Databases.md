@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
-  - Performance tuning h
-  - Migrations h
-  - Schema versioning h
-  - Backup and recovery k
-  - Database scalability k
-  - Relational databases k
-  - Key-value store k
-  - Tuple store k
-  - Graph databases k
-  - Object databases k
-  - Column databases k
-  - Navigational databases k
-  - Hierarchical databases k
-  - In-memory databases k
-  - Inverted index k
-  - Data control language (DCL) h
-  - Data definition language (DDL) h
-  - Data manipulation language (DML) h
-  - Data query language (DQL) h
+  - Data types: 👂 heard
+  - Performance tuning: 👂 heard
+  - Migrations: 👂 heard
+  - Schema versioning: 👂 heard
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 🎓 known
+  - Key-value store: 🎓 known
+  - Tuple store: 🎓 known
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
+  - Navigational databases: 🎓 known
+  - Hierarchical databases: 🎓 known
+  - In-memory databases: 🎓 known
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 👂 heard
+  - Data manipulation language (DML): 👂 heard
+  - Data query language (DQL): 👂 heard
 - Relational
-  - Entity-Relationship Diagram k
-  - Normal forms h
-  - Indexing h
-  - Primary keys h
-  - Foreign keys h
-  - Transactions k
-  - Views k
-  - Subqueries k
-  - Stored procedures h
-  - SQL functions h
-  - Materialized views h
-  - Replications h
-  - Virtualization k
+  - Entity-Relationship Diagram: 🎓 known
+  - Normal forms: 👂 heard
+  - Indexing: 👂 heard
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
+  - Transactions: 🎓 known
+  - Views: 🎓 known
+  - Subqueries: 🎓 known
+  - Stored procedures: 👂 heard
+  - SQL functions: 👂 heard
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 🎓 known
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
-  - `LIMIT` k
-  - `OFFSET` k
-  - `ORDER BY` k
-  - `GROUP BY` k
-  - `HAVING` k
-  - `EXISTS` k
-  - `JOIN` k
-  - `INNER JOIN` k
-  - `LEFT JOIN` k
-  - `RIGHT JOIN` k
-  - `UNION` k
-  - `DISTINCT` k
-  - `WHERE` k
-  - `LIKE` k
-  - `IN` k
-  - `BETWEEN` k
-  - `CREATE TABLE` k
-  - `ALTER TABLE` k
-  - `DROP TABLE` k
-  - `PRIMARY KEY` k
-  - `FOREIGN KEY` k 
-  - `CHECK` k
-  - `DEFAULT` k
-  - `INDEX` k
-  - `UNIQUE` k
-  - `GRANT` k
-  - `REVOKE` k
-  - `DENY` k
-  - `EXPLAIN` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
+  - `LIMIT`: 🎓 known
+  - `OFFSET`: 🎓 known
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
+  - `HAVING`: 🎓 known
+  - `EXISTS`: 🎓 known
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
+  - `UNION`: 🎓 known
+  - `DISTINCT`: 🎓 known
+  - `WHERE`: 🎓 known
+  - `LIKE`: 🎓 known
+  - `IN`: 🎓 known
+  - `BETWEEN`: 🎓 known
+  - `CREATE TABLE`: 🎓 known
+  - `ALTER TABLE`: 🎓 known
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
+  - `CHECK`: 🎓 known
+  - `DEFAULT`: 🎓 known
+  - `INDEX`: 🎓 known
+  - `UNIQUE`: 🎓 known
+  - `GRANT`: 🎓 known
+  - `REVOKE`: 🎓 known
+  - `DENY`: 🎓 known
+  - `EXPLAIN`: 🎓 known
 - Engines
-  - PostgreSQL k
-  - Oracle k
-  - MySQL k
-  - MariaDB k
-  - MS SQL Server k
-  - Redis k
-  - Rabbit k
-  - MongoDB h
-  - Memcached h
-  - Riak h
-  - DB2 h
-  - SQLite h
-  - DynamoDB k
-  - Firebase k
+  - PostgreSQL: 🎓 known
+  - Oracle: 🎓 known
+  - MySQL: 🎓 known
+  - MariaDB: 🎓 known
+  - MS SQL Server: 🎓 known
+  - Redis: 🎓 known
+  - Rabbit: 🎓 known
+  - MongoDB: 👂 heard
+  - Memcached: 👂 heard
+  - Riak: 👂 heard
+  - DB2: 👂 heard
+  - SQLite: 👂 heard
+  - DynamoDB: 🎓 known
+  - Firebase: 🎓 known
 - Data engineering
-  - Data warehousing k
-  - Business intelligence k
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases k
-  - Data Visualization h
+  - Data warehousing: 🎓 known
+  - Business intelligence: 🎓 known
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 🎓 known
+  - Data Visualization: 👂 heard
